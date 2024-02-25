@@ -5,7 +5,7 @@ right_format = """$nix_shell$git_status$git_branch$cmd_duration"""
 add_newline = false
 
 [line_break]
-disabled = true
+disabled = false
 
 [character]
 success_symbol = " [ﬦ](#f5c2e7 bold)"
