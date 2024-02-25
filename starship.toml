@@ -8,8 +8,8 @@ add_newline = true
 disabled = false
 
 [character]
-success_symbol = " [💜](#f5c2e7 bold)"
-error_symbol = " [💜](#f38ba8)"
+success_symbol = " [🤍](#f5c2e7 bold)"
+error_symbol = " [🤍](#f38ba8)"
 
 [hostname]
 disabled = true
