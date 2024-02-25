@@ -1,8 +1,8 @@
 format = "$directory$character"
 right_format = """$nix_shell$git_status$git_branch$cmd_duration"""
 
-# Disable the blank line at the start of the prompt
-add_newline = false
+# Enable the blank line at the start of the prompt
+add_newline = true
 
 [line_break]
 disabled = false
