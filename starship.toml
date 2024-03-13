@@ -27,7 +27,7 @@ truncation_length = 3
 truncate_to_repo=true
 
 [nix_shell]
-format = "(fg:#1e1e2e bg:#1e1e2e)[](fg:#94e2d5 bg:#1e1e2e)[](fg:#1e1e2e bg:#94e2d5)[](fg:#94e2d5 bg:none) "
+format = "(fg:#1e1e2e bg:#1e1e2e)[](fg:#94e2d5 bg:#1e1e2e)[](fg:#1e1e2e bg:#94e2d5)[](fg:#94e2d5 bg:none) "
 style = "fg:#94e2d5 bg:#1e1e2e"
 
 [git_branch]
